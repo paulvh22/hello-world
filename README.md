@@ -1,3 +1,2 @@
 # hello-world
-Test
-test another branch
+Just another branch
